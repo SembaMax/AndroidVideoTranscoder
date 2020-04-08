@@ -128,7 +128,8 @@ dependencies {
 
     implementation libs.numberprogressbar
 
-    implementation libs.androidFfmpeg
+    implementation "com.arthenica:mobile-ffmpeg-full-gpl:4.3.1.LTS"
+
 }
 
 // region override support library version
